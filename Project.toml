@@ -1,0 +1,22 @@
+name = "SGP4Integration"
+uuid = "905cdfaa-87e8-5f76-8428-33b223284a5b"
+version = "0.1.0"
+authors = ["Vitor Cantarella vcantarella@cantarellalabs.com"]
+
+[workspace]
+projects = ["test", "docs"]
+
+[deps]
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+SatelliteToolboxPropagators = "c2b69894-ea78-4e2b-9ba6-cedbbc3d14d7"
+SatelliteToolboxTle = "7ff27aeb-5fff-4337-a9ee-a9fe6b7ed35e"
+SatelliteToolboxTransformations = "6b019ec1-7a1e-4f04-96c7-a9db1ca5514d"
+
+[compat]
+Dates = "1.11.0"
+LinearAlgebra = "1.12.0"
+SatelliteToolboxPropagators = "1.2.0"
+SatelliteToolboxTle = "1.1.1"
+SatelliteToolboxTransformations = "1.2.0"
+julia = "1.10"
