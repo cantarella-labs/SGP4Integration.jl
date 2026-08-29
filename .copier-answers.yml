@@ -1,0 +1,43 @@
+# Changes here will be overwritten by Copier
+AddAgentsMd: false
+AddAllcontributors: false
+AddChangelog: true
+AddCitationCFF: false
+AddCodeOfConduct: false
+AddContributionDocs: false
+AddCopierCI: false
+AddDocs: true
+AddDocsCI: true
+AddFormatterAndLinterConfigFiles: true
+AddGitHubPRTemplate: false
+AddGitHubTemplates: false
+AddLintCI: true
+AddLychee: false
+AddMacToCI: true
+AddPrecommit: true
+AddPrecommitUpdateCI: true
+AddTagBotCI: true
+AddTestCI: true
+AddVSCodeRecommendations: true
+AddWinToCI: false
+Authors: Vitor Cantarella vcantarella@cantarellalabs.com
+CheckExplicitImports: true
+ConfigIndentation: 2
+ExplicitImportsChecklist: exclude_all_qualified_accesses_are_public
+GitHubActionVersionAutoUpdate: dependabot
+JuliaCompatAutoUpdate: dependabot
+JuliaIndentation: 4
+JuliaMinCIVersion: lts
+JuliaMinVersion: '1.10'
+License: MIT
+LicenseCopyrightHolders: Vitor Cantarella vcantarella@cantarellalabs.com
+MarkdownIndentation: 2
+PackageName: SGP4Integration
+PackageOwner: cantarella-labs
+PackageUUID: 905cdfaa-87e8-5f76-8428-33b223284a5b
+RunJuliaNightlyOnCI: false
+StrategyConfirmIncluded: true
+StrategyLevel: 1
+StrategyReviewExcluded: false
+TestingStrategy: testitem_basic
+_src_path: /Users/vcantarella/.julia/packages/BestieTemplate/MPEqY
