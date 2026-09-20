@@ -15,7 +15,7 @@ SatelliteToolboxTransformations = "6b019ec1-7a1e-4f04-96c7-a9db1ca5514d"
 
 [compat]
 Dates = "1.11.0"
-LinearAlgebra = "1.12.0"
+LinearAlgebra = "1.12.0, 1.10"
 SatelliteToolboxPropagators = "1.2.0"
 SatelliteToolboxTle = "1.1.1"
 SatelliteToolboxTransformations = "1.2.0"
